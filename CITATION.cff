@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software (below) and the associated manuscript listed under preferred-citation."
+title: "Analysis code for MSW physical-composition classification and heating-value estimation"
+abstract: >-
+  Reproducible analysis notebook for evaluating how the resolution and structure
+  of municipal solid waste physical-composition classification affect
+  heating-value estimation. Implements zero-intercept Ridge estimation of
+  empirical effective heating-value coefficients, top-N classification-resolution
+  screening, abundance-weighted contiguous regrouping with deterministic
+  allocation of low-prevalence components, comparison with literature-reported
+  formula architectures, and temporal, bootstrap and sensitivity robustness
+  analyses.
+type: software
+authors:
+  - family-names: Lin
+    given-names: Hung-Yueh
+    orcid: "https://orcid.org/0009-0009-9150-1137"
+    affiliation: "Department of Environmental Engineering and Management, Chaoyang University of Technology, Taichung, Taiwan"
+version: 1.0.0
+date-released: "2026-08-14"
+license: MIT
+repository-code: "https://github.com/USERNAME/msw-composition-heating-value"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - municipal solid waste
+  - heating value
+  - physical composition
+  - thermal grouping
+  - ridge regression
+  - waste-to-energy
+preferred-citation:
+  type: article
+  title: "Physical composition classification and thermal representation of municipal solid waste: Implications for heating-value estimation from Taiwanese sampling data"
+  authors:
+    - family-names: Lin
+      given-names: Hung-Yueh
+      orcid: "https://orcid.org/0000-0000-0000-0000"
+      affiliation: "Department of Environmental Engineering and Management, Chaoyang University of Technology, Taichung, Taiwan"
+  year: 2026
+  journal: "Waste Management"
