@@ -14,8 +14,7 @@ coefficients, abundance-weighted contiguous regrouping, deterministic allocation
 of low-prevalence components, comparison with literature-reported formula
 architectures, and the temporal, bootstrap and sensitivity robustness suite.
 
-Archived version: **DOI 10.5281/zenodo.XXXXXXX** *(replace after the first
-Zenodo release; the concept DOI resolves to the latest version)*
+Archived version: DOI 10.5281/zenodo.21934646
 
 ---
 
