@@ -19,8 +19,8 @@ authors:
 version: 1.0.0
 date-released: "2026-08-14"
 license: MIT
-repository-code: "https://github.com/USERNAME/msw-composition-heating-value"
-doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/githubhylin/msw-composition-heating-value"
+doi: "10.5281/zenodo.21934646"
 keywords:
   - municipal solid waste
   - heating value
@@ -34,7 +34,7 @@ preferred-citation:
   authors:
     - family-names: Lin
       given-names: Hung-Yueh
-      orcid: "https://orcid.org/0000-0000-0000-0000"
+      orcid: "https://orcid.org/0009-0009-9150-1137"
       affiliation: "Department of Environmental Engineering and Management, Chaoyang University of Technology, Taichung, Taiwan"
   year: 2026
   journal: "Waste Management"
